@@ -1,4 +1,4 @@
 /app/vendor
-/app/app/tmp
-/app/app/log
-composer.lock
+/app/temp
+/app/log
+/app/composer.lock
